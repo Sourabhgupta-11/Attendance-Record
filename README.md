@@ -21,7 +21,7 @@ Notifications & Alerts
 
 🛠 Tech Stack
 
-Frontend: React.js (Next.js),Tailwind CSS
+Frontend: React.js (Next.js),Tailwind CSS / Bootstap
 
 Backend: Node.js (Express) / Django / Flask
 
@@ -30,3 +30,4 @@ Database: PostgreSQL / MySQL / Firebase
 Authentication: Firebase Auth / JWT
 
 Hosting: Vercel (Frontend), AWS / Render (Backend)
+
